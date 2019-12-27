@@ -54,5 +54,5 @@ class Calkul:
 
 root = Tk()
 root.title('Калькулятор')
-statr = Calkul(root)
+start = Calkul(root)
 root.mainloop()
